@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Caveat:wght@400..700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,300;0,400;1,400&display=swap');
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.textColor{
+  @apply  text-[#285BDB]
+}
+.bgColor{
+  @apply  bg-[#285BDB]
+}
+.heartColor{
+  @apply  bg-[#a2b7ea]
+}
+.font-caveat {
+  font-family: 'Caveat', cursive;
+}
+.thumbs{
+  display: none;
+}
+.carousel.carousel-slider .control-arrow{
+ @apply md:h-10 md:w-10 w-8 h-8 flex justify-center items-center rounded-full bg-gray-400 mt-72
+}
+.font-poppins{
+  font-family: 'Poppins';
+}

@@ -1,0 +1,83 @@
+[
+    {
+        "id": 1,
+        "img": "./img/laptop1.png",
+        "phoneName": "Asus Vivo Book15",
+        "presentPrice": 999,
+        "previousPrice": 1099,
+        "review": "21",
+        "quantity": 8
+    },
+    {
+        "id": 2,
+        "img": "./img/laptop2.png",
+        "phoneName": "Samsung Book",
+        "presentPrice": 1199,
+        "previousPrice": 1299,
+        "review": "20",
+        "quantity": 13
+    },
+    {
+        "id": 3,
+        "img": "./img/laptop1.png",
+        "phoneName": "Lenovo i8",
+        "presentPrice": 899,
+        "previousPrice": 999,
+        "review": "22",
+        "quantity": 6
+    },
+    {
+        "id": 4,
+        "img": "./img/laptop2.png",
+        "phoneName": "Asus Vibo Book",
+        "presentPrice": 899,
+        "previousPrice": 949,
+        "review": "20",
+        "quantity": 5
+    },
+    {
+        "id": 5,
+        "img": "./img/laptop1.png",
+        "phoneName": "Lenovo",
+        "presentPrice": 899,
+        "previousPrice": 949,
+        "review": "21",
+        "quantity": 8
+    },
+    {
+        "id": 6,
+        "img": "./img/laptop2.png",
+        "phoneName": "Samsung",
+        "presentPrice": 999,
+        "previousPrice": 1099,
+        "review": "22",
+        "quantity": 13
+    },
+    {
+        "id": 7,
+        "img": "./img/laptop1.png",
+        "phoneName": "Asus Vibo 14",
+        "presentPrice": 899,
+        "previousPrice": 999,
+        "review": "20",
+        "quantity": 11
+    },
+    {
+        "id": 8,
+        "img": "./img/laptop2.png",
+        "phoneName": "Lenovo",
+        "presentPrice": 799,
+        "previousPrice": 899,
+        "review": "21",
+        "quantity": 7
+    },
+    {
+        "id": 9,
+        "img": "./img/laptop1.png",
+        "phoneName": "Samsung",
+        "presentPrice": 349,
+        "previousPrice": 450,
+        "review": "20",
+        "quantity": 12
+    }
+]
