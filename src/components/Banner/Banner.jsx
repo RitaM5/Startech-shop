@@ -32,7 +32,9 @@ const Banner = () => {
                                 </p>
                             </div>
                         </div>
-                        <div className='w-full relative bottom-10 md:top-20 md:bottom-0'>
+                        <div data-aos="fade-left"
+                                data-aos-offset="300"
+                                data-aos-easing="ease-in-sine" data-aos-duration="1000"  className='w-full relative bottom-10 md:top-20 md:bottom-0'>
                             <div className='border border-gray-600 absolute right-2 -bottom-12 md:-bottom-28 px-2 py-1 md:px-4 md:py-2'>
                                 <div>
                                     <i className="fas fa-shield-alt text-2xl"></i>
