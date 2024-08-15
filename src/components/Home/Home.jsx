@@ -4,6 +4,7 @@ import PopularCategory from './PopularCategory';
 import { ProductContext } from '../../context/ProductProvider';
 import { CartContext } from '../../context/CartProvider';
 import About from './About';
+import Review from './Review';
 
 const Home = () => {
    const {products, showAllData} = useContext(ProductContext);
@@ -103,6 +104,7 @@ const Home = () => {
 
             <PopularCategory />
             <About/>
+            <Review/>
         </div>
     );
 };
